@@ -1,4 +1,5 @@
-﻿Clear-Host ; Write-Host;
+﻿Gary
+Clear-Host ; Write-Host;
 ##	▼▼ Class Definition
 Class Dozens {
 	## Properties
